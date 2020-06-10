@@ -1,5 +1,15 @@
 # Docker Commands
 
+* Starting Docker
+
+```
+docker-compose up     //this will give you trace of log outputs
+
+or 
+
+docker-composer up -d //silently run in the background
+```
+
 * Stopping Docker
 ```
 docker-compose stop
