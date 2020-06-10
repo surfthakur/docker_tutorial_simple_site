@@ -47,6 +47,8 @@ docker-compose up --force-recreate --build
 
 
 ### You can add these aliases on your pc 
+#### ~/.bashrc for Ubuntu
+#### TBC for windows and mac
 
 ```
 alias docker_perm='sudo chmod 777 /var/run/docker.sock'
